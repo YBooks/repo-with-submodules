@@ -1,0 +1,6 @@
+[submodule "python-submodule"]
+	path = python-submodule
+	url = git@github.com:YBooks/python-submodule.git
+[submodule "css-submodule"]
+	path = css-submodule
+	url = git@github.com:AimanHmidouch/css-submodule.git
